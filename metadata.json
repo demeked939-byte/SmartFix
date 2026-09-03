@@ -1,6 +1,7 @@
 {
-  "name": "SmartFix Ethiopia — Advanced UI Redesign & Concepts",
-  "description": "Advanced redesign concepts and interactive mobile-first experience for SmartFix Ethiopia technician marketplace.",
-  "requestFramePermissions": [],
+  "name": "SmartFix Ethiopia",
+  "description": "Enterprise home and commercial repair platform for Addis Ababa with Customer App, Technician Portal, and Admin Dispatch Console.",
+  "requestFramePermissions": ["geolocation", "microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
+
